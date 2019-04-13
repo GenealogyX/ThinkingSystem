@@ -1,23 +1,14 @@
 献给8-16岁孩子的信息学
 =======
-* [English version](./README.md)
 
-一切都是信息，万物源自比特
-`996.ICU`  是指“工作 996， 生病 ICU” 。这是中国程序员之间的一种自嘲说法，意思是如果按照 996 的模式工作，那以后就得进 ICU 了。
+一切都是信息，万物源自比特。
 
-[![LICENSE](https://img.shields.io/badge/license-Anti%20996-blue.svg)](https://github.com/996icu/996.ICU/blob/master/LICENSE)
-[![Badge](https://img.shields.io/badge/link-996.icu-red.svg)](https://996.icu/#/zh_CN)
-
-如果你想添加 996.ICU 徽章到你项目，请阅读下面的[我能做什么？](#我能做什么)
+如果你想参与此项目，请阅读下面的[我能做什么？](#我能做什么)
 同时也欢迎为这个库点亮 Star 和做出贡献。
 
-相关报道
+本项目目的
 ---
-
-- 《共青团中央》：[工作996，生病ICU？关注：年轻人该如何奋斗](https://mp.weixin.qq.com/s/e5qaW6ED_WUunNYG-q7frg)
-- 《中国青年报》：[被“996”工作制围困的年轻人：像是定好闹钟的机器](http://zqb.cyol.com/html/2019-04/02/nw.D110000zgqnb_20190402_1-02.htm)
-
-点击此处查看相关报道的[完整列表](/externals/news.md)
+本项目是为让8-16岁的孩子了解信息学而创建
 
 什么是996？
 ---
