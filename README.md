@@ -2,6 +2,7 @@
 =======
 * [English version](./README.md)
 
+一切都是信息，万物源自比特
 `996.ICU`  是指“工作 996， 生病 ICU” 。这是中国程序员之间的一种自嘲说法，意思是如果按照 996 的模式工作，那以后就得进 ICU 了。
 
 [![LICENSE](https://img.shields.io/badge/license-Anti%20996-blue.svg)](https://github.com/996icu/996.ICU/blob/master/LICENSE)
