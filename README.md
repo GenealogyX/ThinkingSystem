@@ -1,4 +1,4 @@
-[996.ICU](https://996.icu)
+献给8-16岁孩子的信息学
 =======
 * [English version](./README.md)
 
